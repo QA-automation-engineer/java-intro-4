@@ -1,4 +1,4 @@
-package lesson03;
+package lesson03.c_interfaces;
 
 public abstract class Car {
 
@@ -6,7 +6,6 @@ public abstract class Car {
     private int produceYear;
     private String color;
     private Engine engine;
-
 
     public Car(String manufacturer, int produceYear, String color) {
         this.manufacturer = manufacturer;

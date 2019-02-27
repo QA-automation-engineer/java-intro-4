@@ -1,4 +1,4 @@
-package lesson03;
+package lesson03.c_interfaces;
 
 public class Truck extends Car implements Climatable{
 

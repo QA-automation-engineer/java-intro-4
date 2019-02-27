@@ -1,4 +1,4 @@
-package lesson03;
+package lesson03.c_interfaces;
 
 public class Engine {
 	private double volume;
